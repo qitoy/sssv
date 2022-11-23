@@ -6,4 +6,7 @@
 
 ```vim
 :SSSV
+
+" quit sssv mode
+q
 ```
